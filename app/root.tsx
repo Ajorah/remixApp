@@ -61,7 +61,6 @@ export default function App() {
                 aria-label="Open Sidebar"
                 aria-expanded={sidebarOpen}
               >
-                ≡
                 <span />
                 <span />
                 <span />
