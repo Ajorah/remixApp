@@ -1,38 +1,11 @@
-# Welcome to Remix!
+# Welcome to my React Remix App hosted on Railway!
 
-- [Remix Docs](https://remix.run/docs)
+- [Railway Live Website](https://remixapp-production-8b2d.up.railway.app)
 
-## Development
+This is a rendition of what I can get done from the original state of this repository, to the current live demo... In 1 hour.
 
-From your terminal:
+Sadly, I have not yet added a database, but that's not too difficult to manage.
 
-```sh
-npm run dev
-```
+If you have ideas for additions and changes, please use the live contact form on the website,
 
-This starts your app in development mode, rebuilding assets on file changes.
-
-## Deployment
-
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `remix build`
-
-- `build/server`
-- `build/client`
+Thank you.
